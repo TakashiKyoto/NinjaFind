@@ -110,7 +110,7 @@ Edit via Settings or add to config:
 
 ## Author
 
-**Takashi Kyoto** - [GitHub](https://github.com/TakashiSeven) | [YouTube](https://youtube.com/@TakashiKyoto)
+**Takashi Kyoto** - [GitHub](https://github.com/TakashiKyoto) | [YouTube](https://youtube.com/@TakashiKyoto)
 
 ## License
 
